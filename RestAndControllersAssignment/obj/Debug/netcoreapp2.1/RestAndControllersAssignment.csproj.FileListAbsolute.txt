@@ -1,0 +1,14 @@
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\bin\Debug\netcoreapp2.1\RestAndControllersAssignment.deps.json
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\bin\Debug\netcoreapp2.1\RestAndControllersAssignment.runtimeconfig.json
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\bin\Debug\netcoreapp2.1\RestAndControllersAssignment.runtimeconfig.dev.json
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\bin\Debug\netcoreapp2.1\RestAndControllersAssignment.dll
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\bin\Debug\netcoreapp2.1\RestAndControllersAssignment.pdb
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.csprojAssemblyReference.cache
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.RazorAssemblyInfo.cache
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.RazorAssemblyInfo.cs
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.AssemblyInfoInputs.cache
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.AssemblyInfo.cs
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.dll
+C:\Users\ftd-04\source\repos\RestAndControllersAssignment\RestAndControllersAssignment\obj\Debug\netcoreapp2.1\RestAndControllersAssignment.pdb
